@@ -34,9 +34,10 @@ To run this project, you need:
      cd ToDo-API
 
 3. Install the required dependencies:
-   -npm
-   -Node.js
-   -Express.js
+   
+   - npm
+   - Node.js
+   - Express.js
 
    For Node.js and npm: [Download Node.js](https://nodejs.org/)
 
