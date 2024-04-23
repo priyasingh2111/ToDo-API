@@ -16,18 +16,3 @@ Clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/yourusername/todo-list-api.git
-
-### Install Dependencies
-Navigate to the project directory and install the necessary dependencies with npm:
-
-```bash
-cd todo-list-api
-npm install
-
-## Start the Server
-Use `nodemon` (or `node`) to start the Express server:
-
-```bash
-npm start
-
-This should correct the formatting and provide a consistent structure for the "Start the Server" section in Markdown.
