@@ -34,13 +34,19 @@ To run this project, you need:
      cd ToDo-API
 
 3. Install the required dependencies:
-    ```bash
-    npm install
+   -npm
+   -Node.js
+   -Express.js
 
-4. Start the server:
+   For Node.js and npm: [Download Node.js](https://nodejs.org/)
+
+   For Express.js
+   ```bash
+   npm install express
+
+5. Start the server:
     ```bash
     npm start
-
     
 By default, the server runs on http://localhost:3000.
 
